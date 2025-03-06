@@ -44,7 +44,7 @@ def build_generator():
 
 #### ✔️ 결과
 - 고양이 이미지 생성 결과 (초기 실험 단계)
-- `출력된이미지_1.png`, `출력된이미지_2.png`
+- ![Generated Image 1](출력된이미지_1.png), ![Generated Image 2](출력된이미지_2.png)
 
 ---
 
@@ -73,7 +73,7 @@ def build_discriminator():
 
 #### ✔️ 결과
 - 고양이 이미지 생성 결과 (향상된 품질)
-- `출력된이미지_3.png`, `출력된이미지_4.png`
+- ![Generated Image 3](출력된이미지_3.png), ![Generated Image 4](출력된이미지_4.png)
 
 ---
 
@@ -102,4 +102,4 @@ def build_unet(input_shape):
 
 #### ✔️ 결과
 - DDIM을 활용한 고양이 이미지 생성 결과
-- `출력된이미지_5.png`, `출력된이미지_6.png`, `출력된이미지_7.png`
+- ![Generated Image 5](출력된이미지_5.png), ![Generated Image 6](출력된이미지_6.png), ![Generated Image 7](출력된이미지_7.png)
